@@ -54,6 +54,31 @@
     text-transform: uppercase;
     padding: 1rem 0.5rem 1rem 0.5rem;
 }
+.skill-name {
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-align: left;
+    padding-bottom: 0.5rem;
+}
+.progress-bar   {
+    border: 1px white solid;
+    height: 4px;
+    background-color: white;
+}
+.right-main-content {
+    padding: 2rem 3rem 2rem 3rem;
+}
+.right-title    {
+    text-transform:uppercase;
+    font-weight:700;
+    padding:1.5rem;
+    letter-spacing:1px;
+}
+@media (max-width: 673px)   {
+    .main-content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
 *{
     padding: 0;
     margin: 0;
