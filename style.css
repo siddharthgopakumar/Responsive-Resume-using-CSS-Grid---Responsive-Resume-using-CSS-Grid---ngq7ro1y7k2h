@@ -5,9 +5,11 @@
     width: 90%;
 }
 .left-section {
+    display: grid;
     background-color: PaleTurquoise;
 }
 .right-section {
+    display: grid;
     background-color: LightPink;
     
 }
