@@ -5,13 +5,11 @@
     width: 90%;
 }
 .left-section {
-    display: grid;
-    grid-template-columns:none;
+    grid-column: span 1;
     background-color: PaleTurquoise;
 }
 .right-section {
-    display: grid;
-    grid-template-columns:none;
+    grid-column: span 1/ span 2;
     background-color: LightPink;
     
 }
