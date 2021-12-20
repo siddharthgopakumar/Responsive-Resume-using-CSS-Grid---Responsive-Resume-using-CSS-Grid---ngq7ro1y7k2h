@@ -67,13 +67,14 @@
     background-color: white;
 }
 .right-main-content {
-    padding: 2rem 3rem 2rem 3rem;
+    padding: 32px 48px 32px 48px;
 }
 .right-title    {
     text-transform:uppercase;
     font-weight:700;
-    padding:1.5rem;
+    font-size:1.2rem;
     letter-spacing:1px;
+    padding: 0.5rem;
 }
 @media (max-width: 673px)   {
     .main-content {
