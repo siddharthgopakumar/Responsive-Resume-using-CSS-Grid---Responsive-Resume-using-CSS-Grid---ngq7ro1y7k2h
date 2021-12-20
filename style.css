@@ -10,8 +10,7 @@
 }
 .right-section {
     grid-column: span 1/ span 2;
-    background-color: LightPink;
-    
+    background-color: LightPink;    
 }
 .left-content    {
     padding: 1rem;
